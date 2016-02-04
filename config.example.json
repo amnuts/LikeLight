@@ -1,0 +1,17 @@
+{
+    "pins": {
+        "r": 0,
+        "g": 2,
+        "b": 3
+    },
+    "callback_url": "http://your-domain/app/",
+    "fb_config": {
+        "app_id": "1234567890",
+        "app_secret": "abc123abc123abc123abc123",
+        "default_graph_version": "v2.4"
+    },
+    "fb_token": {
+        "short": "",
+        "long": ""
+    }
+}

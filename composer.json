@@ -1,0 +1,28 @@
+{
+  "name": "amnuts/LikeLight",
+  "description": "RaspberryPi light activated when you get a like on Facebook",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andrew Collington",
+      "email": "andy@amnuts.com",
+      "homepage": "http://www.amnuts.com/",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "email": "andy@amnuts.com",
+    "issues": "https://github.com/amnuts/LikeLight/issues"
+  },
+  "autoload": {
+    "psr-4": {
+      "LikeLight\\": "lib/"
+    }
+  },
+  "require": {
+    "ext-PHPiWire": "*",
+    "facebook/php-sdk-v4": "^5.0@dev",
+    "php": ">=5.4"
+  }
+}

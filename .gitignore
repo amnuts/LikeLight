@@ -1,0 +1,5 @@
+.idea/
+vendor/
+config.json
+config.production.json
+phpstorm-stub.php
