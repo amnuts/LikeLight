@@ -2,7 +2,7 @@
 
 Light up an RGB led on the RaspberryPi whenever you get a Like on Facebook.  This uses PHP with the [PHPiWire](https://github.com/amnuts/phpiwire) as a requirement to interact with the GPIO pins.
 
-[![Flattr this git repo](//button.flattr.com/flattr-badge-large.png)](https://flattr.com/submit/auto?fid=do3pln&url=https%3A%2F%2Fgithub.com%2Famnuts%2FLikeLight)
+[![Flattr this git repo](http://button.flattr.com/flattr-badge-large.png)](https://flattr.com/submit/auto?fid=do3pln&url=https%3A%2F%2Fgithub.com%2Famnuts%2FLikeLight)
 
 Right now this project is very undocumented and most untested.
 
